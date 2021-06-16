@@ -1,0 +1,16 @@
+
+#para{
+    font-size:25px; 
+    padding:10px 80px
+}
+#h1OnTop{
+    font-size:50px;
+    color: rgba(6, 2, 245, 0.555); 
+    padding: 10px 100px
+}
+
+#resultText {
+    font-size: 30px;
+    margin: 50px 250px 10px;
+    color:rgb(241, 1, 121);
+}
